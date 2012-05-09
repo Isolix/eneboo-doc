@@ -4,7 +4,7 @@
 
 Introducción
 -----------------------------------
-Este área es una parte importante de la aplicación ya que es donde el usuario introducirá los datos de su empresa, sus clientes, proveedores, artículos, etc. para posteriormente realizar diversas tareas con ellos, como presupuestos, pedidos, álbaranes, facturas, informes.
+Este área es una parte importante de la aplicación ya que es donde el usuario introducirá los datos de su empresa, sus clientes, proveedores, artículos, etc. para posteriormente realizar diversas tareas con ellos, como presupuestos, pedidos, albaranes, facturas, informes.
 
 Principal
 -----------------------------------
